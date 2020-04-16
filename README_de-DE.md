@@ -253,157 +253,156 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - Erstellen, Verwalten und Anzeigen von SQLite-Datenbankdateien visuell.
 
 #### Golang
-- [GoLand](https://www.jetbrains.com/go/) - GoLand is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
-- [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE is a simple, open source, cross-platform Go IDE.
+- [GoLand](https://www.jetbrains.com/go/) - GoLang ist der Codename für eine neue kommerzielle IDE von JetBrains, die eine ergonomische Umgebung für die Go-Entwicklung bieten soll.
+- [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE ist eine einfache, plattformübergreifende Open-Source-Go-IDE.
 
 #### Java
-- [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](https://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA. The Community version is open sourced.
+- [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](https://bluej.org/) - Eine kostenlose Java-Entwicklungsumgebung für Anfänger, die von Millionen weltweit verwendet wird.
+- [Eclipse](https://eclipse.org/ide/) - Eclipse ist berühmt für seine Java Integrated Development Environment (IDE), kann aber auch Pakete herunterladen, um C / C ++ IDE und PHP IDE zu unterstützen.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Leistungsstarke IDE für JAVA. Die Community-Version ist Open Source.
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - Leistungsstarke IDE für die moderne JavaScript-Entwicklung von JetBrains.
 
 
-#### Microcomputer and Embedded Devices
-- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
-- [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.
-- [![Open-Source Software][OSS Icon]](https://github.com/Sloeber/arduino-eclipse-plugin) [Sloeber IDE](https://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse.
+#### Mikrocomputer und eingebettete Geräte
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Die Open-Source-Arduino-Software (IDE) erleichtert das Schreiben und Hochladen von Code auf das Board.
+- [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing ist eine Open-Source-Hardware-Initiative, die Elektronik als kreatives Material für jedermann zugänglich macht.
+- [![Open-Source Software][OSS Icon]](https://github.com/Sloeber/arduino-eclipse-plugin) [Sloeber IDE](https://eclipse.baeyens.it/) - Sloeber IDE. Die Arduino IDE für Eclipse.
 
-#### Multiple Languages Support
-- [![Open-Source Software][OSS Icon]](https://github.com/aptana) [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
-- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.
-- [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.
-- [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
+#### Unterstützung für mehrere Sprachen
+- [![Open-Source Software][OSS Icon]](https://github.com/aptana) [Aptana](http://www.aptana.com/) - Aptana Studio nutzt die Flexibilität von Eclipse und fokussiert es auf eine leistungsstarke Webentwicklungs-Engine.
+- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - Es ist eine kostenlose Open-Source-IDE mit allen Funktionen und erweiterbaren Plugins für C / C ++ und andere Programmiersprachen.
+- [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - Plattformübergreifende IDE für C #, F # und mehr.
+- [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - Mit NetBeans IDE können Sie schnell und einfach Java-Desktop-, Mobil- und Webanwendungen sowie HTML5-Anwendungen mit HTML, JavaScript und CSS entwickeln.
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Blitzschnelle und leistungsstarke PHP-IDE von Jetbrain.
 
 #### Python
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm](https://www.jetbrains.com/pycharm/) - Leistungsstarke IDE für Python.
 
 #### Shell
-- [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
-- [![Open-Source Software][OSS Icon]](https://github.com/jorgebucaran/fisher) [Fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish shell.
-- [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Powerful Python shell.
-- [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
-- [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
-- [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
+- [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - Eine intelligente und benutzerfreundliche Befehlszeilen-Shell.
+- [![Open-Source Software][OSS Icon]](https://github.com/jorgebucaran/fisher) [Fisher](https://github.com/jorgebucaran/fisher) - Ein Plugin-Manager für fish shell.
+- [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Leistungsstarke Python-Shell.
+- [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Bietet verschiedene Pakete und Themen, um die Funktionalität Ihrer fish Shell zu erweitern.
+- [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Aherrliches Community-gesteuertes Framework für die Verwaltung Ihrer zsh-Konfiguration.
+- [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - Eine leistungsstarke Befehlszeilen-Shell.
 
-#### Supporting Tools
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor. It allows searching code for symbols, definitions, functions (called/calling), regex, files.
-- [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.
-- [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface.
-- ![Nonfree][Money Icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
-- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/giggle/) [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle is a graphical frontend for the git content tracker.
-- [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-- [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
-- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories.
-- [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
-- [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
-- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - a heap memory profiler for Linux
-- [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
-- [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
-- [Mockingbot](https://mockingbot.com) - Mockingbot is an easy-to-use prototyping tool.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment.
-- [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
-- [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - Simple color picker.
-- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
-- [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
-- ![Nonfree][Money Icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
-- ![Non Free][Money Icon] [StarUML](http://staruml.io/) - A sophisticated software modeler.
-- [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter.
-- [![Open-Source Software][OSS Icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
-- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
-- [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
-- [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
+#### Unterstützende Tools
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope ist ein Entwicklertool zum Durchsuchen des Quellcodes. Obwohl cmd-line-Anwendung, ist es nativ in den Vim-Editor integriert. Es ermöglicht die Suche im Code nach Symbolen, Definitionen, Funktionen (aufgerufen / aufgerufen), Regex und Dateien.
+- [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - Die Devilbox ist ein moderner und hochgradig anpassbarer Docker-PHP-Stack, der vollständige LAMP und MEAN unterstützt und auf allen wichtigen Plattformen ausgeführt wird. Das Hauptziel besteht darin, alle für die lokale Entwicklung erforderlichen Versionen einfach zu wechseln und zu kombinieren.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](http://diffuse.sourceforge.net/) - Diffuse ist ein grafisches Tool zum Vergleichen und Zusammenführen von Textdateien. Es kann Dateien zum Vergleich aus Bazaar-, CVS-, Darcs-, Git-, Mercurial-, Monotone-, RCS-, Subversion- und SVK-Repositorys abrufen.
+- [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - In sich geschlossenes, verteiltes Softwarekonfigurationsmanagementsystem mit integriertem Bug-Tracking, Wiki, Technotes und Webinterface.
+- ![Nonfree][Money Icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion ist ein schneller Emulator von Drittanbietern, der anstelle des Standard-Android-Emulators verwendet werden kann.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/giggle/) [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle ist ein grafisches Frontend für den Git Content Tracker.
+- [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](https://www.gistoapp.com/) - Gisto ist ein Code-Snippet-Manager, der auf GitHub Gists ausgeführt wird und zusätzliche Funktionen wie Suchen, Markieren und Freigeben von Gists hinzufügt, während ein umfangreicher Code-Editor enthalten ist.
+- [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git ist ein kostenloses und Open Source verteiltes Versionskontrollsystem, das entwickelt wurde, um alles von kleinen bis zu sehr großen Projekten schnell und effizient abzuwickeln.
+- [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola ist ein eleganter und leistungsstarker grafischer Git-Client. Geschrieben in Python und GPL-lizenziert.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg ist der GNOME-GUI-Client zum Anzeigen von Git-Repositorys.
+- [GitKraken](https://www.gitkraken.com/) - Der geradezu luxuriöse Git GUI Client für Windows, Mac & Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab ist ein webbasierter Git-Repository-Manager mit Wiki und Problem-Tracking-Funktionen.
+- [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Mit Gitolite können Sie Git-Hosting auf einem zentralen Server einrichten, mit einer detaillierten Zugriffskontrolle und vielen leistungsstärkeren Funktionen.
+- [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - Ein Heapspeicher-Profiler für Linux
+- [Insomnia](https://insomnia.rest/) - Ein einfacher, schöner und kostenloser REST-API-Client.
+- [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Ein Open-Source-Programm, das interaktive Daten und wissenschaftliche Computerinformationen in über 40 Programmiersprachen bereitstellt.
+- [![Open-Source Software][OSS Icon]](https://meldmerge.org/development.html) [Meld](https://meldmerge.org/) - Meld ist ein visuelles Diff- und Merge-Tool, mit dem Sie Dateien, Verzeichnisse und versionierte Projekte vergleichen können.
+- [Mockingbot](https://mockingbot.com) - Mockingbot ist ein benutzerfreundliches Prototyping-Tool.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver ist ein Projekt zum Schreiben eines eigenständigen grafischen Debuggers, der sich gut in die GNOME-Desktopumgebung integrieren lässt.
+- [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - Ein Open-Source-GUI-Prototyping-Tool, das für ALLE Plattformen verfügbar ist.
+- [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - Einfacher Farbwähler.
+- [Postman](https://www.getpostman.com) - Postman ermöglicht es einem Benutzer, APIs schnell zu entwickeln und zu testen.
+- [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS ist eine Reihe von grafischen Tools, die einen einfachen und unkomplizierten Zugriff auf die von Ihnen verwendeten Versionskontrollsysteme ermöglichen.
+- ![Nonfree][Money Icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit ist ein Git-Client mit Unterstützung für GitHub Pull Requests + Comments und SVN.
+- ![Non Free][Money Icon] [StarUML](http://staruml.io/) - Ein hoch entwickelter Software-Modellierer.
+- [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](http://uncrustify.sourceforge.net/) - Quellcode-Verschönerung für C / C ++, C #, ObjectiveC, D, Java, Pawn und VALA. Siehe UniversalIndentGUI unten.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI bietet eine Live-Vorschau zum Einstellen der Parameter nahezu aller Indenter.
+- [![Open-Source Software][OSS Icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind ist ein GPL-System zum Debuggen und Profilieren von Linux-Programmen.
+- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - Das GNU wdiff-Programm ist ein Front-End-Diff zum Vergleichen von Dateien auf Wort-für-Wort-Basis. Es sammelt die Diff-Ausgabe und verwendet sie, um eine schönere Anzeige der Wortunterschiede zwischen den Originaldateien zu erzeugen.
+- [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark ist der weltweit führende Netzwerkprotokollanalysator. Auf mikroskopische Ebene können Sie sehen, was in Ihrem Netzwerk passiert. Es ist der De-facto-Standard (und oft de jure) in vielen Branchen und Bildungseinrichtungen.
+- [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal ist ein Offline-Dokumentationsbrowser für Softwareentwickler.
 
-### E-Book Utilities
-- [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader.
-- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - A program for EBook Management.
-- [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion.
-- [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
-- [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.
-- [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps.
-- [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
-- [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books is application for listing, searching and reading eBooks.
-- [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - A lightweight, fast, customizable and featureful PDF, EPUB, XPS and CBZ viewer with vi-like keybindings based on MuPDF.
-- [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.
-- [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - a lightweight PDF and XPS viewer.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc.
-- [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
-- [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer.
-- [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.
-- [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
+### E-Book-Dienstprogramme
+- [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - Ein einfacher, fokussierter eBook-Reader.
+- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - Ein Programm für eBook Management.
+- [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - Unglaublich hässliche, aber leistungsstarke Software für die Verwaltung und Konvertierung von E-Books.
+- [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web ist eine Web-App, die eine saubere Oberfläche zum Durchsuchen, Lesen und Herunterladen von eBooks mithilfe einer vorhandenen Calibre-Datenbank bietet.
+- [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Moderne GTK Python Ebook Reader App zum einfachen Lesen von Epub-Dateien.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) [Evince](https://wiki.gnome.org/Apps/Evince) - Evince ist ein Dokumentbetrachter für mehrere Dokumentformate. Das Ziel von evince ist es, die mehreren auf dem GNOME Desktop vorhandenen Dokumentbetrachter durch eine einzige einfache Anwendung zu ersetzen.
+- [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - Eine der beliebtesten eReader-Apps.
+- [Foxit](https://www.foxitsoftware.com/pdf-reader/) - Foxit Reader 8.0 - Preisgekrönter PDF Reader.
+- [![Open-Source Software][OSS Icon]](https://github.com/martahilmar/gnome-books) [Gnome Books](https://github.com/martahilmar/gnome-books) - GNOME Books ist eine Anwendung zum Auflisten, Suchen und Lesen von eBooks.
+- [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - Ein leichter, schneller, anpassbarer und funktionsfähiger PDF-, EPUB-, XPS- und CBZ-Viewer mit vi-ähnlichen Tastenkombinationen basierend auf MuPDF.
+- [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor ist ein Computerprogramm zum Lesen und Handhaben von E-Books. Lucidor unterstützt E-Books im EPUB-Dateiformat und Kataloge im OPDS-Format.
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor ist ein praktischer und intelligenter PDF-Editor für Linux.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK + Comic-Viewer.
+- [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - Ein leichter PDF- und XPS-Viewer.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular ist ein von KDE entwickelter universeller Dokumentbetrachter. Okular funktioniert auf mehreren Plattformen, einschließlich, aber nicht beschränkt auf Linux, Windows, Mac OS X, BSD usw.
+- [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - Eine Desktop-Anwendung zum Teilen, Extrahieren von Seiten, Drehen, Mischen und Zusammenführen von PDF-Dateien.
+- [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar ist ein persönliches Wissensrepository für PDF- und Webinhalte, das inkrementelles Lesen und Dokumentanmerkungen unterstützt.
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview ist ein Dokumentbetrachter mit Registerkarten.
+- [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil ist ein plattformübergreifender EPUB-E-Book-Editor.
+- [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura ist ein hochgradig anpassbarer und funktionaler Dokumentbetrachter.
 
 ### Editors
-- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackable text editor for the 21st century.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
-- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
-- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
-- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
-- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ development (Cmake integrated).
-- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune code editor - Vim inspired. Faster as in less keystrokes. Multiple selections. Orthogonal design. Has a strong focus on interactivity.
-- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2.
-- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment.
-- [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
-- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
-- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.
-- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
-- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution.
-- [![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim) [SpaceVim](https://spacevim.org/) - A community-driven modular vim distribution.
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
-- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](https://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
-
-### Education
-- [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/artha/) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet.
-- [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/) [Celestia](https://celestia.space) - The free space simulation that lets you explore our universe in three dimensions.
-- [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](http://www.epoptes.org/) - An open source computer lab management and monitoring tool.
-- [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
-- [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
-- [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME.
-- [![Open-Source Software][OSS Icon]](https://hg.savannah.gnu.org/hgweb/octave) [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
-- [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gtypist.git) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor.
-- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](https://www.gnukhata.in/) - Open source accounting software.
-- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
-- [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.
-- [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch is a program to learn and practice touch typing.
-- ![Nonfree][Money icon] [MAPLE](https://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems.
-- ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas — your swiss army knife for maps.
-- ![Nonfree][Money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/maxima/) [Maxima](http://maxima.sourceforge.net/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
-- [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
-- [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Course management system for online learning.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide is a 2D geometry software: figures are defined dynamically by describing formal geometrical constraints.
-- [![Open-Source Software][OSS Icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles is a set of open-source tools for self-hosting of OpenStreetMaps in more than 50 languages. It provides both raster as well as vector tiles, WMS, WMTS, support for JavaScript viewers and mobile SDK.
-- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [OpenSIS](https://www.opensis.com/) - School Management Software that Increases Student Achievements & Teacher Performances.
-- [![Open-Source Software][OSS Icon]](https://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](https://pari.math.u-bordeaux.fr/) - A computer algebra system for fast computations in number theory.
-- [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](https://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
-- [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/stellarium/) [Stellarium](https://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.
-- [![Open-Source Software][OSS Icon]](https://github.com/sugarlabs/sugar) [Sugar Desktop Environment](https://sugarlabs.org/) - Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface.
-- [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
-- [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
+- [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackbarer Texteditor für das 21. Jahrhundert.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish ist ein leistungsstarker Editor für Programmierer und Webentwickler mit vielen Optionen zum Schreiben von Websites, Skripten und Programmcode.
+- [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - Ein moderner Texteditor, der Webdesign versteht.
+- [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - Ein erweiterbarer, anpassbarer, freier / libre Texteditor - und mehr.
+- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany ist ein Texteditor, der das GTK + Toolkit mit den Grundfunktionen einer integrierten Entwicklungsumgebung verwendet. Er wurde entwickelt, um eine kleine und schnelle IDE bereitzustellen, die nur wenige Abhängigkeiten von anderen Paketen aufweist.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit ist der GNOME-Texteditor. Gedit zielt auf Einfachheit und Benutzerfreundlichkeit ab und ist ein leistungsstarker Allzweck-Texteditor.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Leistungsstarke IDE für die moderne C / C ++ / Bash / JavaScript-Entwicklung von Gnome Team. Eine der besten IDE für die C / C ++ - Entwicklung (Cmake integriert).
+- [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune Code Editor - Vim inspiriert. Schneller durch weniger Tastenanschlägen. Mehrfachauswahl. Orthogonales Design. Hat einen starken Fokus auf Interaktivität.
+- [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate ist seit Release 2.2 ein Multi-Document-Editor-Teil von KDE.
+- [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Kostenlose und Open Source mehrsprachige Entwicklungsumgebung.
+- [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - Der Code-Editor der nächsten Generation! Unterstützt Live-Codierung.
+- [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro ist ein terminalbasierter Texteditor, der einfach zu bedienen und intuitiv sein soll und gleichzeitig die vollen Funktionen moderner Terminals nutzt.
+- [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano ist ein Texteditor, der eine einfache Benutzeroberfläche und intuitive Befehlsoptionen für die konsolenbasierte Textbearbeitung bereitstellen soll.
+- [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim ist eine Abzweigung von Vim, die darauf abzielt, die Benutzererfahrung, Plugins und GUIs zu verbessern.
+- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - Eine Community-gesteuerte Emacs-Distribution.
+- [![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim) [SpaceVim](https://spacevim.org/) - Eine Community-gesteuerte modulare Vim-Distribution.
+- [Sublime](https://www.sublimetext.com/) - Ein sehr leistungsfähiger Texteditor mit erweiterten Suchfunktionen und vielen leistungsstarken Plugins zur Verbesserung seiner Funktionalität.
+- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalistischer Texteditor für Programmierer. Textadept ist mit der Programmiersprache Lua erweiterbar.
+- [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](https://www.vim.org/download.php) - Vim ist ein fortschrittlicher Texteditor, der die Leistung des De-facto-Unix-Editors 'Vi' mit einem umfassenderen Funktionsumfang bereitstellen soll. Er ist nützlich, unabhängig davon ob Sie bereits vi oder einen anderen Editor verwenden.
+- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code ist ein leichter, aber leistungsstarker Quellcode-Editor, der auf Ihrem Desktop ausgeführt wird und für Windows, OS X und Linux verfügbar ist. Er bietet integrierte Unterstützung für JavaScript, TypeScript und Node.js und verfügt über ein umfangreiches Ökosystem an Erweiterungen für andere Sprachen (C ++, C #, Python, PHP, Golang) und Laufzeiten.
+### Bildung
+- [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - leistungsstarke, intelligente Lernkarten, die das Erinnern erleichtern.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/artha/) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha ist ein kostenloser plattformübergreifender englischer Thesaurus, der vollständig offline funktioniert und auf WordNet basiert.
+- [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime ist eine Bibelstudienanwendung, die auf der Schwertbibliothek und dem Qt-Toolkit basiert.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/) [Celestia](https://celestia.space) - Die Freiraumsimulation, mit der Sie unser Universum in drei Dimensionen erkunden können.
+- [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool ist ein kleines Programm zum Zeichnen chemischer Strukturen unter Linux.
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](http://www.epoptes.org/) - Ein Open-Source-Tool zur Verwaltung und Überwachung von Computerlaboren.
+- [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - Ein Computeralgebrasystem für die rechnergestützte diskrete Algebra mit besonderem Schwerpunkt auf der rechnergestützten Gruppentheorie.
+- [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris ist eine hochwertige Lernsoftware-Suite, die zahlreiche Aktivitäten für Kinder im Alter von 2 bis 10 Jahren umfasst.
+- [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - Der Grafikrechner für Funktionen, Geometrie, Algebra, Analysis, Statistik und 3D-Mathematik.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - Ein leistungsstarkes Wörterbuch für GNOME.
+- [![Open-Source Software][OSS Icon]](https://hg.savannah.gnu.org/hgweb/octave) [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave ist eine wissenschaftliche Programmiersprache, die hauptsächlich für numerische Berechnungen gedacht ist und größtenteils mit MATLAB kompatibel ist.
+- [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gtypist.git) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-basierter Schreiblehrer für freie Software.
+- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](https://www.gnukhata.in/) - Open Source Buchhaltungssoftware.
+- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth ist ein virtuelles Globus-, Karten- und Geoinformationsprogramm.
+- [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic ist eine Periodensystemanwendung für Linux.
+- [KDE Edu Suite](https://edu.kde.org/) - Kostenlose Lernsoftware basierend auf den KDE-Technologien.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - Ein Touch-Tipp-Tutor, der sehr flexibel ist und anpassbare Tastaturlayouts unterstützt. Sie können neue oder unbekannte Tastaturlayouts bearbeiten und speichern, da der Grundkurs so konzipiert wurde, dass er nicht von bestimmten abhängig ist. Es gibt auch einige Diagramme zum Lernprozess.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch ist ein Programm zum Erlernen und Üben des Tippens.
+- ![Nonfree][Money icon] [MAPLE](https://www.maplesoft.com/products/maple/) - Maple ist eine Mathematik-Software, die die leistungsstärkste Mathematik-Engine der Welt mit einer Benutzeroberfläche kombiniert, mit der sich mathematische Probleme ganz einfach analysieren, untersuchen, visualisieren und lösen lassen.
+- ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler generiert zoombare Rasterkarten aus Bildern in einem benutzerdefinierten Koordinatensystem.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marmor ist ein virtueller Globus- und Weltatlas - Dein Schweizer Taschenmesser für Karten.
+- ![Nonfree][Money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - Die MATLAB-Plattform ist für die Lösung technischer und wissenschaftlicher Probleme optimiert. MATLAB hilft Ihnen dabei, Ihre Ideen über den Desktop hinaus zu bringen. Sie können Ihre Analysen für größere Datenmengen ausführen und auf Cluster und Clouds skalieren.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/maxima/) [Maxima](http://maxima.sourceforge.net/) - Maxima ist ein System zur Manipulation symbolischer und numerischer Ausdrücke, einschließlich Differenzierung, Integration, Taylor-Reihen, Laplace-Transformationen, gewöhnlicher Differentialgleichungen, linearer Gleichungssysteme und vielem mehr.
+- [Mendeley](https://www.mendeley.com/) - Mendeley ist ein Programm zum Verwalten und Teilen von Forschungsarbeiten, zum Auffinden von Forschungsdaten und zur Online-Zusammenarbeit.
+- [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Kursmanagementsystem für Online-Lernen.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide ist eine 2D-Geometriesoftware: Figuren werden dynamisch definiert, indem formale geometrische Einschränkungen beschrieben werden.
+- [![Open-Source Software][OSS Icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles ist eine Reihe von Open-Source-Tools zum Selbsthosting von OpenStreetMaps in mehr als 50 Sprachen. Es bietet sowohl Raster- als auch Vektorkacheln, WMS, WMTS, Unterstützung für JavaScript-Viewer und mobiles SDK.
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [OpenSIS](https://www.opensis.com/) - Schulverwaltungssoftware zur Steigerung der Schülerleistungen und Lehrerleistungen.
+- [![Open-Source Software][OSS Icon]](https://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](https://pari.math.u-bordeaux.fr/) - Ein Computeralgebrasystem für schnelle Berechnungen in der Zahlentheorie.
+- [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](https://www.sagemath.org/) - Eine mathematische Software mit Funktionen, die viele Aspekte der Mathematik abdecken, einschließlich Algebra, Kombinatorik, numerische Mathematik, Zahlentheorie und Analysis.
+- [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy ist ein Python-basiertes Ökosystem von Open-Source-Software für Mathematik, Naturwissenschaften und Ingenieurwissenschaften.
+- [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - Mit Scratch können Sie Ihre eigenen interaktiven Geschichten, Spiele und Animationen programmieren und Ihre Kreationen mit anderen in der Online-Community teilen.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/stellarium/) [Stellarium](https://www.stellarium.org/) - Stellarium ist ein kostenloses Open Source Planetarium für Ihren Computer.
+- [![Open-Source Software][OSS Icon]](https://github.com/sugarlabs/sugar) [Sugar Desktop Environment](https://sugarlabs.org/) - Sugar ist eine Lernplattform, die die Verwendung von Computern für Bildungszwecke neu erfindet. Zusammenarbeit, Reflexion und Erkennung werden direkt in die Benutzeroberfläche integriert.
+- [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE ist eine kostenlose plattformübergreifende Open-Source-integrierte Bioinformatik-Software auf GUI-Basis.
+- [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon ist eine Computerverwaltungssoftware für Klassenzimmer, mit der ein Lehrer Schülercomputer steuern und Schüler über ein Computernetzwerk führen kann.
 
 ### Email
 - [![Open-Source Software][OSS Icon]](https://git.claws-mail.org/) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
