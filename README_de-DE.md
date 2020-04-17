@@ -40,7 +40,7 @@
     - [Werkzeuge](#utilities)
     - [Video](#video)
     - [Wiki software](#wiki-software)
-    - [Andere(#others)
+    - [Andere](#others)
 - [Kommando Zeilen Werkzeuge](#command-line-utilities)
 - [Desktop Umgebungen](#desktop-environments)
 - [Anezeige Manager](#display-manager)
